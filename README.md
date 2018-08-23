@@ -1,4 +1,4 @@
-# Amazon-seller-list
+# Amazon Seller List
 
 Amazon Seller List Scraper written in Python 3 to extract seller information of product based on its ASIN. If you would like to know more about this scraper
 you can check it out at the blog post 'How to scrape seller prices of products from Amazon'
