@@ -43,4 +43,4 @@ python3 amazon-seller-list B01DQ2B8UY "new" "prime"
 ## Sample Output
 This will create a CSV file:
 
-[Sample Output]()
+[Sample Output](https://github.com/scrapehero/amazon-seller-list/blob/master/B01DQ2B8UY-sellers.csv)
